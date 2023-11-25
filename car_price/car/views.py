@@ -12,7 +12,7 @@ brands = ['MG', 'Toyota', 'Honda', 'KIA', 'Nissan', 'Suzuki', 'Mercedes Benz'
             'ZOTYE', 'Opel', 'Vauxhall', 'Oldsmobile', 'GMC', 'Citroen', 'Classic Cars'
             'Mushtaq', 'Volvo']
 
-def home(request):
+def home(request): 
     response = {'fuel_types': fuels, 'brands': brands}
 
     if request.method == 'POST':
