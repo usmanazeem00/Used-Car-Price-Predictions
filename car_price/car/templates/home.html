@@ -33,49 +33,58 @@
                             <label for="brand" class="form-label">Brand</label>
                             <select class="form-select" id="brand" name="brand" required>
                                 {% for option in brands %}
-                                <option value="{{ option }}" {% if option == brand %}selected{% endif %}>{{ option }}</option>
+                                <option value="{{ option }}" {% if option == brand %}selected{% endif %}>{{ option }}
+                                </option>
                                 {% endfor %}
+                            </select>
+                        </div>
+
+                        <div class="mb-3 col-md-6">
+                            <label for="description" class="form-label">Description</label>
+                            <select class="form-select" id="description" name="description" required>
                             </select>
                         </div>
 
                         <div class="mb-3 col-md-6">
                             <label for="fuel_type" class="form-label">Fuel Type</label>
                             <select class="form-select" id="fuel_type" name="fuel_type" required>
-                                {% for option in fuel_types %}
-                                    <option value="{{ option }}" {% if option == fuel_type %}selected{% endif %}>{{ option }}</option>
-                                {% endfor %}
                             </select>
-                        </div>                        
+                        </div>
+
+                        <div class="mb-3 col-md-6">
+                            <label for="model_date" class="form-label">Model Date</label>
+                            <input min="1900" max="2023" type="number" value="{{ model_date }}" class="form-control"
+                                id="model_date" name="model_date" required>
+                        </div>
                     </div>
 
                     <label for="mileage" class="form-label">Mileage from Odometer</label>
                     <div class="input-group mb-3">
-                        <input min="0" type="number" class="form-control" value="{{ mileage_from_odometer }}" id="mileage" name="mileage_from_odometer" required>
+                        <input min="0" type="number" class="form-control" value="{{ mileage_from_odometer }}"
+                            id="mileage" name="mileage_from_odometer" required>
                         <span class="input-group-text">km</span>
-                    </div>
-
-                    <div class="mb-3">
-                        <label for="model_date" class="form-label">Model Date</label>
-                        <input min="1900" max="2023" type="number" value="{{ model_date }}" class="form-control" id="model_date" name="model_date" required>
                     </div>
 
                     <label for="vehicle_engine" class="form-label">Vehicle Engine</label>
                     <div class="input-group mb-3">
-                        <input min="0" type="number" class="form-control" value="{{ vehicle_engine }}" id="vehicle_engine" name="vehicle_engine" required>
+                        <input min="0" type="number" class="form-control" value="{{ vehicle_engine }}"
+                            id="vehicle_engine" name="vehicle_engine" required>
                         <span class="input-group-text">cc</span>
                     </div>
 
                     <div class="d-flex justify-content-evenly mb-3">
                         <div class="form-check form-check-inline">
-                            <input class="form-check-input" type="radio" name="vehicle_transmission" id="inlineRadio1" value="Automatic" {% if vehicle_transmission != "Manual " %}checked{% endif %}>
+                            <input class="form-check-input" type="radio" name="vehicle_transmission" id="inlineRadio1"
+                                value="Automatic" {% if vehicle_transmission != "Manual" %}checked{% endif %}>
                             <label class="form-check-label" for="inlineRadio1">Automatic</label>
                         </div>
                         <div class="form-check form-check-inline">
-                            <input class="form-check-input" type="radio" name="vehicle_transmission" id="inlineRadio2" value="Manual" {% if vehicle_transmission == "Manual" %}checked{% endif %}>
+                            <input class="form-check-input" type="radio" name="vehicle_transmission" id="inlineRadio2"
+                                value="Manual" {% if vehicle_transmission == "Manual" %}checked{% endif %}>
                             <label class="form-check-label" for="inlineRadio2">Manual</label>
                         </div>
                     </div>
-                    
+
                     <button type="submit" class="btn btn-primary w-100">Submit</button>
                 </form>
                 <form method="get" action="{% url 'home' %}">
@@ -85,7 +94,9 @@
             <section class="col-md-6 d-flex align-items-center justify-content-center">
                 <h2>Price:</h2>
                 {% if price %}
-                    <h2 class="ps-4">{{price}}</h2>
+                    <h2 class="ps-4">
+                        PKR <span id="price-counter">0.00</span>
+                    </h2>
                 {% endif %}
             </section>
         </div>
@@ -95,9 +106,75 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"></script>
     <script>
-        // Initialize Bootstrap Selectpicker
         $(document).ready(function () {
             $('.selectpicker').selectpicker();
+        })
+    </script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#brand').change(function () {
+                var selectedBrand = $(this).val();
+                $.ajax({
+                    url: '{% url "get_descriptions" %}',
+                    data: { 'brand': selectedBrand },
+                    dataType: 'json',
+                    success: function (data) {
+                        $('#description').empty();
+                        $.each(data.description_choices, function (index, choice) {
+                            var isSelected = choice === '{{ description }}';
+                            $('#description').append('<option value="' + choice + '" ' + (isSelected ? 'selected' : '') + '>' + choice + '</option>');
+                        });
+                        $('#description').trigger('change');
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('AJAX error:', status, error);
+                    }
+                });
+            });
+            $('#brand').trigger('change');
+
+            $('#description').change(function () {
+                var selectedDesc = $(this).val();
+                $.ajax({
+                    url: '{% url "get_fuels" %}',
+                    data: { 'description': selectedDesc },
+                    dataType: 'json',
+                    success: function (data) {
+                        $('#fuel_type').empty();
+                        $.each(data.fuel_choices, function (index, choice) {
+                            var isSelected = choice === '{{ fuel_type }}';
+                            $('#fuel_type').append('<option value="' + choice + '" ' + (isSelected ? 'selected' : '') + '>' + choice + '</option>');
+                        });
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('AJAX error:', status, error);
+                    }
+                });
+            });
+
+            var targetPrice = parseFloat("{{ price|floatformat:2 }}");
+
+            // Set up the animation parameters
+            var duration = 2000; // Animation duration in milliseconds
+            var interval = 20; // Update interval in milliseconds
+            var step = (targetPrice / duration) * interval;
+
+            // Function to update the counter
+            function updateCounter(currentValue) {
+                $('#price-counter').text(currentValue.toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 }));
+            }
+
+            // Animate the counter
+            $({ value: 0 }).animate({ value: targetPrice }, {
+                duration: duration,
+                step: function () {
+                    updateCounter(this.value);
+                },
+                complete: function () {
+                    updateCounter(targetPrice); // Ensure the final value is displayed
+                }
+            });
         });
     </script>
 </body>

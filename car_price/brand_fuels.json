@@ -1,0 +1,1527 @@
+{
+  "1000": [
+    "Petrol"
+  ],
+  "120": [
+    "Petrol"
+  ],
+  "1200": [
+    "Petrol"
+  ],
+  "1300": [
+    "Petrol",
+    "Diesel"
+  ],
+  "2": [
+    "Petrol"
+  ],
+  "2008": [
+    "Petrol"
+  ],
+  "3": [
+    "Petrol",
+    "Diesel"
+  ],
+  "300": [
+    "Petrol"
+  ],
+  "3008": [
+    "Petrol"
+  ],
+  "323": [
+    "Petrol"
+  ],
+  "350Z": [
+    "Petrol"
+  ],
+  "5": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "500": [
+    "Petrol",
+    "Diesel"
+  ],
+  "6": [
+    "Petrol"
+  ],
+  "626": [
+    "Petrol"
+  ],
+  "7": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "808": [
+    "Petrol"
+  ],
+  "86": [
+    "Petrol",
+    "Diesel"
+  ],
+  "929": [
+    "Diesel"
+  ],
+  "A3": [
+    "Petrol"
+  ],
+  "A4": [
+    "Petrol"
+  ],
+  "A5": [
+    "Petrol"
+  ],
+  "A6": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "A800": [
+    "Petrol"
+  ],
+  "AD": [
+    "Petrol"
+  ],
+  "APV": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Accent": [
+    "Petrol"
+  ],
+  "Accord": [
+    "Petrol",
+    "Hybrid",
+    "Lpg"
+  ],
+  "Acty": [
+    "Petrol"
+  ],
+  "Aerio": [
+    "Petrol"
+  ],
+  "Airwave": [
+    "Petrol"
+  ],
+  "Allex": [
+    "Diesel"
+  ],
+  "Allion": [
+    "Petrol"
+  ],
+  "Almera": [
+    "Petrol"
+  ],
+  "Alpha": [
+    "Petrol"
+  ],
+  "Alphard": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Alsvin": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Alto": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Amarok": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Aqua": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Atrai": [
+    "Petrol"
+  ],
+  "Audi": [
+    "Petrol"
+  ],
+  "Avanza": [
+    "Petrol"
+  ],
+  "Avensis": [
+    "Petrol"
+  ],
+  "Axela": [
+    "Petrol"
+  ],
+  "Aygo": [
+    "Petrol"
+  ],
+  "Azwagon": [
+    "Petrol"
+  ],
+  "B": [
+    "Petrol",
+    "Diesel"
+  ],
+  "B2200": [
+    "Petrol",
+    "Diesel"
+  ],
+  "BJ40": [
+    "Petrol"
+  ],
+  "BMW": [
+    "Petrol"
+  ],
+  "BR-V": [
+    "Petrol"
+  ],
+  "Baleno": [
+    "Petrol"
+  ],
+  "Beat": [
+    "Petrol"
+  ],
+  "Beetle": [
+    "Petrol"
+  ],
+  "Bego": [
+    "Petrol"
+  ],
+  "Belta": [
+    "Petrol"
+  ],
+  "Bentley": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Benz": [
+    "Petrol",
+    "Diesel",
+    "Electric",
+    "Hybrid"
+  ],
+  "Bj212": [
+    "Diesel"
+  ],
+  "Blue": [
+    "Petrol"
+  ],
+  "Bluebird": [
+    "Petrol"
+  ],
+  "Bolan": [
+    "Petrol",
+    "Diesel",
+    "Hybrid",
+    "Lpg"
+  ],
+  "Boon": [
+    "Petrol"
+  ],
+  "Bravo": [
+    "Petrol"
+  ],
+  "Brz": [
+    "Petrol"
+  ],
+  "C-HR": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "C37": [
+    "Petrol"
+  ],
+  "CJ": [
+    "Petrol",
+    "Diesel"
+  ],
+  "CR-V": [
+    "Petrol"
+  ],
+  "CR-Z": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "CT200h": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "CX70T": [
+    "Petrol"
+  ],
+  "Cadillac": [
+    "Petrol"
+  ],
+  "Caldina": [
+    "Petrol"
+  ],
+  "Cami": [
+    "Petrol"
+  ],
+  "Camry": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Cappuccino": [
+    "Petrol"
+  ],
+  "Caprice": [
+    "Petrol"
+  ],
+  "Caravan": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Carina": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Carol": [
+    "Petrol"
+  ],
+  "Carrier": [
+    "Petrol"
+  ],
+  "Carry": [
+    "Petrol"
+  ],
+  "Cars": [
+    "Petrol"
+  ],
+  "Cast": [
+    "Petrol"
+  ],
+  "Cayenne": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Cedric": [
+    "Petrol"
+  ],
+  "Cefiro": [
+    "Petrol"
+  ],
+  "Celerio": [
+    "Petrol"
+  ],
+  "Celica": [
+    "Petrol"
+  ],
+  "Cerato": [
+    "Petrol"
+  ],
+  "Cervo": [
+    "Petrol"
+  ],
+  "Charade": [
+    "Petrol",
+    "Diesel",
+    "Lpg"
+  ],
+  "Chariot": [
+    "Petrol"
+  ],
+  "Charmant": [
+    "Petrol"
+  ],
+  "Chaser": [
+    "Petrol"
+  ],
+  "Cherokee": [
+    "Petrol"
+  ],
+  "Chevrolet": [
+    "Petrol"
+  ],
+  "Ciaz": [
+    "Petrol"
+  ],
+  "Cielo": [
+    "Petrol"
+  ],
+  "Citroen": [
+    "Petrol"
+  ],
+  "City": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Civic": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Cj": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Ck": [],
+  "Classic": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Clipper": [
+    "Petrol"
+  ],
+  "Coaster": [
+    "Diesel"
+  ],
+  "Colt": [
+    "Petrol"
+  ],
+  "Commander": [
+    "Petrol"
+  ],
+  "Como": [
+    "Diesel"
+  ],
+  "Convertible": [
+    "Petrol"
+  ],
+  "Convoy": [
+    "Petrol"
+  ],
+  "Coo": [
+    "Petrol"
+  ],
+  "Cooper": [
+    "Petrol",
+    "Electric"
+  ],
+  "Copen": [
+    "Petrol"
+  ],
+  "Corolla": [
+    "Petrol",
+    "Diesel",
+    "Hybrid",
+    "Lpg"
+  ],
+  "Corona": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Cortina": [
+    "Petrol"
+  ],
+  "Coupe": [
+    "Petrol"
+  ],
+  "Cressida": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Cross": [
+    "Petrol"
+  ],
+  "Crown": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Cruze": [
+    "Petrol"
+  ],
+  "Cube": [
+    "Petrol"
+  ],
+  "Cultus": [
+    "Petrol",
+    "Hybrid",
+    "Lpg"
+  ],
+  "Cuore": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Cx3": [
+    "Diesel"
+  ],
+  "Cx7": [
+    "Petrol"
+  ],
+  "D-Max": [
+    "Diesel"
+  ],
+  "Daewoo": [
+    "Petrol"
+  ],
+  "Daihatsu": [
+    "Petrol"
+  ],
+  "Dayz": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Delica": [
+    "Diesel"
+  ],
+  "Demio": [
+    "Petrol"
+  ],
+  "Dias": [
+    "Petrol"
+  ],
+  "Double": [
+    "Diesel"
+  ],
+  "Duet": [
+    "Petrol"
+  ],
+  "E": [
+    "Petrol"
+  ],
+  "EK": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Echo": [
+    "Petrol"
+  ],
+  "Ek": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Elantra": [
+    "Petrol"
+  ],
+  "Electra": [
+    "Petrol"
+  ],
+  "Escalade": [
+    "Petrol"
+  ],
+  "Escudo": [
+    "Petrol"
+  ],
+  "Esse": [
+    "Petrol"
+  ],
+  "Estima": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Every": [
+    "Petrol"
+  ],
+  "Excel": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Exclusive": [
+    "Petrol"
+  ],
+  "F": [
+    "Petrol"
+  ],
+  "FG1J": [
+    "Diesel"
+  ],
+  "FX": [
+    "Petrol"
+  ],
+  "Familia": [
+    "Diesel"
+  ],
+  "Family": [
+    "Petrol"
+  ],
+  "Ferio": [
+    "Petrol"
+  ],
+  "Ferrari": [
+    "Petrol"
+  ],
+  "Fiesta": [
+    "Petrol"
+  ],
+  "Fit": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Fj": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Flair": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Ford": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Forester": [
+    "Petrol"
+  ],
+  "Forland": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Fortuner": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Foton": [
+    "Diesel"
+  ],
+  "Freed": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Frontier": [
+    "Diesel"
+  ],
+  "Galant": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Gen": [
+    "Petrol"
+  ],
+  "Gilgit": [
+    "Petrol"
+  ],
+  "Gladiator": [
+    "Petrol"
+  ],
+  "Glory": [
+    "Petrol"
+  ],
+  "Golf": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Grace": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Grand": [
+    "Petrol"
+  ],
+  "Grandis": [],
+  "Gs": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Gto": [
+    "Petrol"
+  ],
+  "H-100": [
+    "Diesel"
+  ],
+  "H1": [
+    "Diesel"
+  ],
+  "H2": [
+    "Petrol"
+  ],
+  "H6": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "HR-V": [
+    "Petrol",
+    "Diesel"
+  ],
+  "HS": [
+    "Petrol"
+  ],
+  "Harrier": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Hiace": [
+    "Petrol",
+    "Diesel",
+    "Lpg"
+  ],
+  "Highlander": [
+    "Petrol"
+  ],
+  "Hijet": [
+    "Petrol"
+  ],
+  "Hilux": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Hino": [
+    "Diesel"
+  ],
+  "Honda": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Hustler": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Hyundai": [
+    "Petrol",
+    "Diesel"
+  ],
+  "I": [
+    "Petrol"
+  ],
+  "ISIS": [
+    "Petrol"
+  ],
+  "IST": [
+    "Petrol"
+  ],
+  "Impian": [
+    "Petrol"
+  ],
+  "Impreza": [
+    "Petrol"
+  ],
+  "Infinity": [
+    "Petrol"
+  ],
+  "Insight": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Inspire": [
+    "Petrol"
+  ],
+  "Integra": [
+    "Petrol"
+  ],
+  "Isuzu": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Jade": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Jaguar": [
+    "Petrol"
+  ],
+  "Jeep": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Jiaxing": [
+    "Petrol"
+  ],
+  "Jimny": [
+    "Petrol"
+  ],
+  "Jolion": [
+    "Petrol"
+  ],
+  "Joy": [
+    "Petrol"
+  ],
+  "Juke": [
+    "Petrol"
+  ],
+  "Justy": [
+    "Petrol"
+  ],
+  "K01": [
+    "Petrol"
+  ],
+  "K07": [
+    "Petrol"
+  ],
+  "KIA": [
+    "Petrol"
+  ],
+  "KY10": [
+    "Petrol"
+  ],
+  "Kaghan": [
+    "Petrol"
+  ],
+  "Kalam": [
+    "Petrol"
+  ],
+  "Kalash": [
+    "Petrol"
+  ],
+  "Karvaan": [
+    "Petrol"
+  ],
+  "Kei": [
+    "Petrol"
+  ],
+  "Khyber": [
+    "Petrol"
+  ],
+  "Kicks": [
+    "Petrol",
+    "Electric",
+    "Hybrid"
+  ],
+  "Kix": [
+    "Petrol"
+  ],
+  "Kizashi": [
+    "Petrol"
+  ],
+  "L200": [
+    "Petrol",
+    "Diesel"
+  ],
+  "L300": [
+    "Petrol",
+    "Diesel"
+  ],
+  "LS": [
+    "Petrol"
+  ],
+  "LX": [
+    "Petrol"
+  ],
+  "Lancer": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Land": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Latio": [
+    "Petrol"
+  ],
+  "Leaf": [
+    "Electric"
+  ],
+  "Lesabre": [
+    "Petrol"
+  ],
+  "Lexus": [
+    "Hybrid"
+  ],
+  "Liana": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Life": [
+    "Petrol"
+  ],
+  "Lite": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Lj80": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Luce": [
+    "Petrol"
+  ],
+  "Lucida": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Lucra": [
+    "Petrol"
+  ],
+  "Lumina": [
+    "Petrol"
+  ],
+  "M": [
+    "Petrol",
+    "Diesel"
+  ],
+  "M38": [
+    "Petrol",
+    "Diesel"
+  ],
+  "M8": [
+    "Petrol"
+  ],
+  "M9": [
+    "Petrol"
+  ],
+  "MG": [
+    "Petrol"
+  ],
+  "MR": [
+    "Petrol"
+  ],
+  "MX": [
+    "Petrol"
+  ],
+  "Macan": [
+    "Petrol"
+  ],
+  "March": [
+    "Petrol"
+  ],
+  "Margalla": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Mark": [
+    "Petrol"
+  ],
+  "Matiz": [
+    "Petrol"
+  ],
+  "Mazda": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Mega": [
+    "Petrol"
+  ],
+  "Mehran": [
+    "Petrol",
+    "Diesel",
+    "Hybrid",
+    "Lpg"
+  ],
+  "Micra": [
+    "Petrol"
+  ],
+  "Mini": [
+    "Diesel"
+  ],
+  "Minica": [
+    "Petrol"
+  ],
+  "Minicab": [
+    "Petrol"
+  ],
+  "Mira": [
+    "Petrol"
+  ],
+  "Mirage": [
+    "Petrol"
+  ],
+  "Mitsubishi": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Moco": [
+    "Petrol"
+  ],
+  "Model": [
+    "Electric"
+  ],
+  "Move": [
+    "Petrol"
+  ],
+  "Murano": [
+    "Petrol"
+  ],
+  "Mustang": [
+    "Petrol",
+    "Electric"
+  ],
+  "Mutt": [
+    "Petrol"
+  ],
+  "N": [
+    "Petrol"
+  ],
+  "NKR": [
+    "Diesel"
+  ],
+  "Navara": [
+    "Diesel"
+  ],
+  "New": [
+    "Diesel"
+  ],
+  "Ninety": [
+    "Petrol"
+  ],
+  "Nissan": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Noah": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Note": [
+    "Petrol",
+    "Electric",
+    "Hybrid"
+  ],
+  "Nv200": [
+    "Petrol"
+  ],
+  "Nv350": [
+    "Petrol"
+  ],
+  "Nx": [
+    "Hybrid"
+  ],
+  "Opel": [
+    "Petrol"
+  ],
+  "Optra": [
+    "Petrol"
+  ],
+  "Oshan": [
+    "Petrol"
+  ],
+  "Otti": [
+    "Petrol"
+  ],
+  "Outlander": [
+    "Petrol"
+  ],
+  "Oxford": [
+    "Petrol"
+  ],
+  "Pajero": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Palette": [
+    "Petrol"
+  ],
+  "Panamera": [
+    "Petrol"
+  ],
+  "Partner": [
+    "Petrol"
+  ],
+  "Passo": [
+    "Petrol"
+  ],
+  "Path": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Patrol": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Pearl": [
+    "Petrol"
+  ],
+  "Peugeot": [
+    "Petrol"
+  ],
+  "Picanto": [
+    "Petrol"
+  ],
+  "Pickup": [
+    "Petrol",
+    "Diesel",
+    "Lpg"
+  ],
+  "Pino": [
+    "Petrol"
+  ],
+  "Pixis": [
+    "Petrol"
+  ],
+  "Platz": [
+    "Petrol"
+  ],
+  "Pleo": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Porte": [
+    "Petrol"
+  ],
+  "Potohar": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Prado": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Premacy": [
+    "Petrol"
+  ],
+  "Premio": [
+    "Petrol"
+  ],
+  "Pride": [
+    "Petrol"
+  ],
+  "Prius": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Probox": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Q2": [
+    "Petrol"
+  ],
+  "Q3": [
+    "Petrol"
+  ],
+  "Q5": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Q7": [
+    "Petrol",
+    "Diesel"
+  ],
+  "QQ": [
+    "Petrol"
+  ],
+  "Qashqai": [
+    "Petrol"
+  ],
+  "R2": [
+    "Petrol"
+  ],
+  "RX": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "RX8": [
+    "Petrol"
+  ],
+  "Racer": [
+    "Petrol",
+    "Lpg"
+  ],
+  "Ractis": [
+    "Petrol"
+  ],
+  "Raize": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Ram": [
+    "Petrol"
+  ],
+  "Ranger": [
+    "Diesel"
+  ],
+  "Raum": [
+    "Petrol"
+  ],
+  "Rav4": [
+    "Petrol"
+  ],
+  "Ravi": [
+    "Petrol"
+  ],
+  "Rekord": [
+    "Petrol"
+  ],
+  "Revo": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Rexton": [
+    "Diesel"
+  ],
+  "Rio": [
+    "Petrol"
+  ],
+  "Rocky": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Romeo": [
+    "Petrol"
+  ],
+  "Roomy": [
+    "Petrol"
+  ],
+  "Roox": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Rover": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "Rush": [
+    "Petrol"
+  ],
+  "Rvr": [
+    "Petrol"
+  ],
+  "Rx7": [
+    "Petrol"
+  ],
+  "S": [
+    "Petrol"
+  ],
+  "S2000": [
+    "Petrol"
+  ],
+  "S660": [
+    "Petrol"
+  ],
+  "Safari": [
+    "Diesel"
+  ],
+  "Saga": [
+    "Petrol"
+  ],
+  "Sai": [
+    "Hybrid"
+  ],
+  "Sambar": [
+    "Petrol"
+  ],
+  "Samurai": [
+    "Petrol"
+  ],
+  "Santa": [
+    "Petrol"
+  ],
+  "Santro": [
+    "Petrol"
+  ],
+  "Scrum": [
+    "Petrol"
+  ],
+  "Senova": [
+    "Petrol"
+  ],
+  "Sentra": [
+    "Petrol"
+  ],
+  "Sera": [
+    "Petrol"
+  ],
+  "Serena": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Shahanshah": [
+    "Petrol"
+  ],
+  "Shehzore": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Shogun": [
+    "Petrol"
+  ],
+  "Sienta": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Sierra": [
+    "Petrol"
+  ],
+  "Silverado": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Sirius": [
+    "Petrol"
+  ],
+  "Sj410": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Skyline": [
+    "Petrol"
+  ],
+  "Solio": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Sonata": [
+    "Petrol"
+  ],
+  "Sonica": [
+    "Petrol"
+  ],
+  "Sorento": [
+    "Petrol"
+  ],
+  "Spacia": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Spark": [
+    "Petrol"
+  ],
+  "Spectra": [
+    "Petrol"
+  ],
+  "Spike": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Splash": [
+    "Petrol"
+  ],
+  "Sportage": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Sprinter": [
+    "Petrol"
+  ],
+  "SsangYong": [
+    "Diesel"
+  ],
+  "Starlet": [
+    "Petrol"
+  ],
+  "Stavic": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Stella": [
+    "Petrol"
+  ],
+  "Stonic": [
+    "Petrol"
+  ],
+  "Storia": [
+    "Petrol"
+  ],
+  "Stream": [
+    "Petrol"
+  ],
+  "Subaru": [
+    "Petrol"
+  ],
+  "Succeed": [
+    "Petrol"
+  ],
+  "Sunny": [
+    "Petrol",
+    "Diesel",
+    "Lpg"
+  ],
+  "Surf": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Suzuki": [
+    "Petrol"
+  ],
+  "Swift": [
+    "Petrol"
+  ],
+  "Sx4": [
+    "Petrol"
+  ],
+  "T6": [
+    "Diesel"
+  ],
+  "TT": [
+    "Petrol"
+  ],
+  "Tacoma": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Taft": [
+    "Petrol"
+  ],
+  "Tank": [
+    "Petrol"
+  ],
+  "Tanto": [
+    "Petrol"
+  ],
+  "Taycan": [
+    "Electric"
+  ],
+  "Terios": [
+    "Petrol"
+  ],
+  "Terracan": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Thats": [
+    "Petrol"
+  ],
+  "Thor": [
+    "Petrol"
+  ],
+  "Tiggo": [
+    "Petrol"
+  ],
+  "Tiida": [
+    "Petrol"
+  ],
+  "Titan": [
+    "Diesel"
+  ],
+  "Toppo": [
+    "Petrol"
+  ],
+  "Town": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Toyota": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Triton": [
+    "Petrol"
+  ],
+  "Trooper": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Tucson": [
+    "Petrol"
+  ],
+  "Tundra": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Uno": [
+    "Petrol"
+  ],
+  "Up": [
+    "Petrol"
+  ],
+  "V2": [
+    "Petrol"
+  ],
+  "Vamos": [
+    "Petrol"
+  ],
+  "Van": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Vanguard": [
+    "Petrol"
+  ],
+  "Vauxhall": [
+    "Petrol"
+  ],
+  "Verossa": [
+    "Petrol"
+  ],
+  "Vezel": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Vigus": [
+    "Diesel"
+  ],
+  "Vita": [
+    "Petrol"
+  ],
+  "Vitara": [
+    "Petrol",
+    "Diesel"
+  ],
+  "Vitz": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Volvo": [
+    "Petrol"
+  ],
+  "Voxy": [
+    "Hybrid"
+  ],
+  "Wagon": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Wingroad": [
+    "Petrol"
+  ],
+  "Wish": [
+    "Petrol"
+  ],
+  "Wrangler": [
+    "Petrol",
+    "Diesel"
+  ],
+  "X": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "X-PV": [
+    "Petrol"
+  ],
+  "X1": [
+    "Petrol"
+  ],
+  "X200": [
+    "Diesel"
+  ],
+  "X3": [
+    "Petrol"
+  ],
+  "X5": [
+    "Petrol",
+    "Diesel",
+    "Hybrid"
+  ],
+  "X6": [
+    "Petrol",
+    "Diesel"
+  ],
+  "X70": [
+    "Petrol"
+  ],
+  "XF": [
+    "Petrol"
+  ],
+  "Xbee": [
+    "Hybrid"
+  ],
+  "Xv": [
+    "Petrol"
+  ],
+  "Yaris": [
+    "Petrol",
+    "Hybrid"
+  ],
+  "Z100": [
+    "Petrol"
+  ],
+  "Z4": [
+    "Petrol"
+  ],
+  "ZS": [
+    "Petrol",
+    "Electric"
+  ],
+  "Zest": [
+    "Petrol"
+  ],
+  "e-tron": [
+    "Electric"
+  ],
+  "i4": [
+    "Electric"
+  ],
+  "i7": [
+    "Electric"
+  ],
+  "i8": [
+    "Hybrid"
+  ],
+  "iQ": [
+    "Petrol"
+  ],
+  "iX": [
+    "Electric"
+  ],
+  "iX3": [
+    "Electric"
+  ],
+  "s": [
+    "Petrol",
+    "Diesel"
+  ]
+}
