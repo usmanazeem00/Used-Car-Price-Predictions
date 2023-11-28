@@ -24,16 +24,22 @@ To run the application locally, follow these steps:
 3. Install the required dependencies:
 
     ```bash
-    pip install django
+    pip install -r requirements.txt
     ```
 
-4. Run the development server:
+4. Create the model files:
+    
+     ```bash
+    python network.py
+    ```
+
+5. Run the development server:
 
     ```bash
     python manage.py runserver
     ```
 
-5. Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the application.
+6. Open your web browser and go to [http://localhost:8000](http://localhost:8000) to access the application.
 
 ## Usage
 
@@ -44,7 +50,9 @@ To run the application locally, follow these steps:
 
 - Django
 - Bootstrap
-- Bootstrap-select
+- JobLib
+- SciKit-Learn
+- Pandas
 
 ## Contributing
 
