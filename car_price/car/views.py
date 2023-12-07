@@ -8,12 +8,10 @@ fuels = ['Diesel', 'Electric', 'Hybrid', 'Lpg', 'Petrol']
 brands = {}
 with open('brands.json', 'r') as json_file:
     brands = json.load(json_file)
-print(brands)
 
 brands_fuels = {}
 with open('brand_fuels.json', 'r') as json_file:
     brands_fuels = json.load(json_file)
-print(brands_fuels)
 
 
 def load_model(save_path='trained_model'):
@@ -70,7 +68,6 @@ def home(request):
  
 def get_descriptions(request):
     brand = request.GET.get('brand')
-    print(brand)
     return JsonResponse({'description_choices': brands[brand]})
 
 def get_fuels(request):
